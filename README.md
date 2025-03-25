@@ -1,2 +1,2 @@
-# TIcTacGame
-# NPM GIT INSTALL
+# TicTacGame
+# npm install
